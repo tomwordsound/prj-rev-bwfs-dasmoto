@@ -1,0 +1,36 @@
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  vertical-align: middle;
+  background-image: url("/Users/Tom/Documents/DEV PROJECTS/Dasmoto/Resources/Images/pattern.jpeg");
+  background-size: auto;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.prices {
+  font-weight: bold;
+  color: blue;
+}
